@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/rajeshbodaaz/PartsUnLimited/_apis/build/status/rajeshbodaaz.ContosoAir?branchName=master)](https://dev.azure.com/rajeshbodaaz/PartsUnLimited/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
